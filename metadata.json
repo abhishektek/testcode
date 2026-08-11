@@ -1,0 +1,6 @@
+{
+  "name": "Codra Studio",
+  "description": "A professional Android IDE for mobile development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
